@@ -37,7 +37,7 @@ The goal was to align the clinic’s operations with **HIPAA Security and Privac
 
 ## 📊 Deliverables  
 - [Executive Report (PDF)](./ISEC695_5_ExecReport.pdf)  
-- [Poster Presentation (PDF)](./Propuesta%20póster%20Cybersecurity%20NSU.pdf)  
+- [Poster Presentation (PDF)]https://github.com/jars25/NSU-Cybersecurity-HIPAA-Compliance-Project/blob/main/ISEC695_5_FinalProjectPoster.pptx 
 - Policy Templates  
 - Risk Assessment Matrix  
 - Compliance Framework Mapping  
