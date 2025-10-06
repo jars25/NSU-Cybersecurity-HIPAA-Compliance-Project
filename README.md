@@ -1,6 +1,7 @@
 # 🏥 Implementing Information Security Policies and HIPAA Compliance at a Small Medical Clinic
 
-**Author:** Jaime A. Roque Soulette & Eyed Mahdi Al Qarni 
+**Author:** Jaime A. Roque Soulette & Eyed Mahdi Al Qarni
+
 **Institution:** Nova Southeastern University  
 **Program:** M.S. in Cybersecurity Management  
 **Year:** 2024  
