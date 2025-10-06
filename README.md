@@ -37,7 +37,7 @@ The goal was to align the clinic’s operations with **HIPAA Security and Privac
 
 ## 📊 Deliverables  
 - [Executive Report (PDF)](./ISEC695_5_ExecReport.pdf)  
-- - [Final Project Poster (PPTX)](./ISEC695_5_FinalProjectPoster.pptx)
+- [Final Project Poster (PPTX)](./ISEC695_5_FinalProjectPoster.pdf)
 - Policy Templates  
 - Risk Assessment Matrix  
 - Compliance Framework Mapping  
